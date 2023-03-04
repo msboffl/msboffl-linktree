@@ -1,0 +1,52 @@
+{
+    "name": "Mareedu Saibabu",
+    "username": "@msboffl",
+    "mark": "/icons/icons8-verified-account-94.png",
+    "avatar": "/msboffl.png",
+    "links": [
+        {
+            "title": "Portfolio Website",
+            "href": "https://portifolio.msboffl.com",
+            "image": "/icons/icons8-briefcase-94.png"
+        },
+        {
+            "title": "Blog",
+            "href": "https://blog.msboffl.com",
+            "image": "/icons/icons8-news-94.png"
+        },
+        {
+            "title": "Projects",
+            "href": "https://blog.msboffl.com",
+            "image": "/icons/icons8-contacts-94.png"
+        },
+        {
+            "title": "Linkedin",
+            "href": "https://linkedin.com/in/msboffl",
+            "image": "/icons/icons8-linkedin-94.png"
+        },
+        {
+            "title": "Github",
+            "href": "https://github.com/msboffl",
+            "image": "/icons/icons8-github-94.png"
+        },
+        {
+            "title": "YouTube",
+            "href": "https://youtube.com/msboffl",
+            "image": "/icons/icons8-youtube-94.png"
+        },
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/msboffl",
+            "image": "/icons/icons8-twitter-circled-94.png"
+        },
+        {
+            "title": "Instagram",
+            "href": "https://instagram.com/msboffl",
+            "image": "/icons/icons8-instagram-94.png"
+        }
+        
+    ],
+    "socials": [
+
+    ]
+}
