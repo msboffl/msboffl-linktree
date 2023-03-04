@@ -8,6 +8,9 @@ const poppins = Poppins({
 export const metadata = {
   title: "Mareedu Saibabu",
   description: "Mareedu Saibabu - Linktree",
+  icons: {
+    icon: '/msboffl.png'
+  }
 };
 
 export default function RootLayout({
