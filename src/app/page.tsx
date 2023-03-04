@@ -29,7 +29,7 @@ function LinkCard({
 //  Home
 export default function Home() {
   return (
-    <main className="w-full flex flex-col items-center justify-center mx-auto px-8 pt-32 md:w-[35rem]">
+    <main className="w-full flex flex-col items-center justify-center mx-auto px-8 pt-24 md:pt-32 md:w-[35rem]">
       <Image src={data.avatar} alt="" width={80} height={80} />
       <h1 className="flex items-center justify-center font-semibold text-2xl mt-2 mb-8 ml-4 text-white">
         {data.name}{" "}
